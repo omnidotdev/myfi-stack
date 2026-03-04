@@ -1,0 +1,5 @@
+services:
+  - myfi-api:
+      repo: https://github.com/omnidotdev/myfi-api#master
+  - myfi-app:
+      repo: https://github.com/omnidotdev/myfi-app#master
