@@ -14,7 +14,7 @@ Unified asset management, portfolio tracking, and accounting.
 
 | Service | Description | Port |
 |---------|-------------|------|
-| myfi-db | PostgreSQL 16 | 5432 |
+| myfi-db | PostgreSQL 18 | 5432 |
 | myfi-api | Elysia + PostGraphile | 4000 |
 | myfi-app | TanStack Start | 3000 |
 
